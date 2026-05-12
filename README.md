@@ -1,4 +1,7 @@
-## Hi there 👋
+Davi Caue
+#Estudante de Análise e Desenvolvimento de Sistemas na UDF (Brasília).
+#Estou construindo minha jornada no desenvolvimento com foco em
+#com foco em dados — transformando números em respostas que fazem sentido.
 
 <!--
 **davicauezz/davicauezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
